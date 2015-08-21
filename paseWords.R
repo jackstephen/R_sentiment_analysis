@@ -7,6 +7,9 @@
 #Author:stephen
 #Date:2015/7/17
 #Update: 
+#
+#
+#
 ######################################
 
 paseWord <- function(words){
